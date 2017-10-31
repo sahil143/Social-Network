@@ -24,7 +24,7 @@ Use `pip` or `easy_install`
 ### Register
 ![Posts] (static/img/register.png)
 
-### Loged in user posts 
+### Logged in user posts 
 ![Posts] (static/img/user_post.png)
 
 ### Create a new post
